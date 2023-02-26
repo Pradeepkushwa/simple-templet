@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration:none;
+
+}
+h1,h2{
+    font-family: 'Raleway',sans-serif;
+}
+section{
+    padding: 60px 0;
+    overflow: hidden;
+}
